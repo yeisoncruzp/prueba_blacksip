@@ -1,0 +1,25 @@
+.container_form{
+    width: 50%;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.container_inputs{
+    flex: 6;
+    width: 100%;
+    padding: 10px;
+    height: 10px;
+}
+.inputs{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 50px;
+    font-size: 28px;
+}
+
+@media screen and (max-width:1260px){
+
+}
